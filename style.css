@@ -1,0 +1,21 @@
+.h3tag{
+    font-size: 22px;
+    width: 100%;
+    margin-top: 0px;
+
+}
+#div1{
+    bottom: 0;
+    position: fixed;
+ color: black;
+  background-color: rgb(254, 249, 249);
+  font-size: 22px;
+  width: 100%;
+  text-align: center;
+}
+canvas{
+    border: 5px solid black;
+    border-radius: 22px;
+    
+    
+}
